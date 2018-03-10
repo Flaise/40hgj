@@ -1,0 +1,11 @@
+{
+  "scripts": {},
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "skid": "0.0.14"
+  },
+  "devDependencies": {
+    "browserify": "^16.0.0"
+  },
+  "private": true
+}
